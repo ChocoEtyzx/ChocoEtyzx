@@ -25,6 +25,9 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 
 ## Backend
+![Screen%20Recording%202023-12-22%20at%206 07 42%E2%80%AFPM](https://github.com/ChocoEtyzx/ChocoEtyzx/assets/141626743/3c367ea0-f56c-4670-a594-424a544b336e)
+
+
 
 
 ## Programming Languages
