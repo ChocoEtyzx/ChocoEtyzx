@@ -5,6 +5,7 @@
 - Intern at [CloudxSolutions](https://ngcloudx.in/).
 - Web, frontend and some backend.
 - 3-D Blender - Spline..
+- Scripting
 
 
 
