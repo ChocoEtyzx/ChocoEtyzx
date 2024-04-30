@@ -33,6 +33,11 @@
   <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django" width="40" height="40"/>
 </a>
 
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" width="40" height="40"/>
+</a>
+
+
 ## Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
