@@ -3,7 +3,7 @@
 
 ### The name is Siddharth Panchal (シッダース・パンチャル  -  Сиддхартх Панчал), I’m someone who writes code…
 - Intern at [CloudxSolutions](https://ngcloudx.in/).
-- Web, frontend and some backend.
+- Web, frontend and some backend(Php and Django).
 - 3-D Blender - Spline..
 - Scripting
 
@@ -29,8 +29,9 @@
 ## Backend
 ![Screen%20Recording%202023-12-22%20at%206 07 42%E2%80%AFPM](https://github.com/ChocoEtyzx/ChocoEtyzx/assets/141626743/3c367ea0-f56c-4670-a594-424a544b336e)
 
-
-
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django" width="40" height="40"/>
+</a>
 
 ## Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
