@@ -2,9 +2,8 @@
 
 
 ### The name is Siddharth Panchal (シッダース・パンチャル  -  Сиддхартх Панчал), I’m someone who writes code…
-- Intern at [CloudxSolutions](https://ngcloudx.in/).
 - Web, frontend and some backend(Php and Django).
-- 3-D Blender - Spline..
+- Node.js
 - Scripting
 
 
